@@ -1,2 +1,7 @@
-# Practive
-Contain all the possible code that I did during some course for exercising 
+# Codes for practice 
+
+Inside this folder, you can find different directories named after the topics/programming languages/other things that I wanted to practice about. 
+
+## Index 
+
+1. 
